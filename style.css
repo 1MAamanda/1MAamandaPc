@@ -1,8 +1,11 @@
 h1{
     text-align:center;
-}
-p{
+    background-color: black;
     text-align: center;
-    color: #b2c8ba;
+    color: aqua;
     font-size: 30px;
+}
+p{text-align: center;
+color: aqua;
+font-size: 30px;
 }
